@@ -1,7 +1,7 @@
 import React from 'react';
 import './Item.css'
 
-const Item = () => {
+const Item = (props) => {
     return(
         <div className='item'>
             <img src={props.image} alt="" />
@@ -18,3 +18,4 @@ const Item = () => {
         </div>
     )
 }
+export default Item;

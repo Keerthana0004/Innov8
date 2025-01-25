@@ -1,6 +1,6 @@
 import React from 'react' 
 import './Offers.css'
-import hero_img from '../Assets/hero.jpg'
+
 const Offers = () => {
     return (
         <div className='offers'>
@@ -10,12 +10,8 @@ const Offers = () => {
                 <p>ONLY ON STYLENOOK</p>
                 <button>Check now</button>
             </div>
-            <div className='offers-right'>
-                <img src={hero-img} alt=""/>
-
-            </div>
         </div>
     )
 }
 
-export default Offers
+export default Offers;
