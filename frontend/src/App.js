@@ -24,6 +24,7 @@ function App() {
         <Route path='/cart' element={<Cart/>}/>
         <Route path='/login' element={<Signup/>}/>
       </Routes>
+      <footer/>
       </BrowserRouter>
       
     </div>
