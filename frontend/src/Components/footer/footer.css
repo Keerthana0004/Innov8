@@ -28,12 +28,20 @@
 .footer-social-icon{
     display: flex;
     gap: 20px;
+    height:50px;
+    width:'auto';
 }
-.footer-icons-container{
+.footer-icons-container img{
+    display:flex;
     padding: 10px;
+    justify-content: center;
+    align-items: center;
     padding-bottom: 6px;
     background: #fbfbfb;
     border: 1px solid #ebebeb;
+    width:24px;
+    height:24px;
+
 }
 .footer-copyright{
     display: flex;
