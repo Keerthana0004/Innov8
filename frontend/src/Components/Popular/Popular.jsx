@@ -1,4 +1,4 @@
-import React from 'react' 6.9k (gzipped 2.7k)
+import React from 'react' 
 import './Popular.css'
 import data_product from '../Assets/data'
 import Item from '../Item/Item'
@@ -6,7 +6,7 @@ import Item from '../Item/Item'
 const Popular = () => {
   return (
     <div className="popular">
-      <h1>POPULAR IN WOMEN</h1>
+      <h1>POPULAR IN STYLENOOK</h1>
       <hr />
       <div className="popular-item">
         {data_product.map((item, i) => {
@@ -17,4 +17,4 @@ const Popular = () => {
   )
 }
 
-export default Popular
+export default Popular;
