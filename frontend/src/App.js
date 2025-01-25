@@ -7,7 +7,6 @@ import Cart from './Pages/Cart';
 import Product from './Pages/Product';
 import ShopCategory from './Pages/ShopCategory';
 import Signup from './Pages/Signup';
-
 function App() {
   return (
     <div>

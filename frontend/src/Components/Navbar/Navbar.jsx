@@ -17,10 +17,10 @@ const Navbar = () => {
                 <p>STYLENOOK</p>
             </div>
             <ul className="nav-menu">
-                <li onClick={()=>{setMenu("shop")}}> <Link to='/'>Shop </Link>style={{ textDecoration: 'none'}}{menu==="shop"?<hr/>:<></>}</li>
-                <li onClick={()=>{setMenu("mens")}}><Link to='/mens'>Men </Link>style={{ textDecoration: 'none'}} {menu==="mens"?<hr/>:<></>}</li>
-                <li onClick={()=>{setMenu("women")}}><Link to='/women'>Women </Link>style={{ textDecoration: 'none'}}{menu==="women"?<hr/>:<></>}</li>
-                <li onClick={()=>{setMenu("kids")}}><Link to='/kids'>Kids </Link> style={{ textDecoration: 'none'}}{menu==="kids"?<hr/>:<></>}</li>
+                <li onClick={()=>{setMenu("shop")}}> <Link to='/' style={{ textDecoration: 'none'}}>Shop </Link>{menu==="shop"?<hr/>:<></>}</li>
+                <li onClick={()=>{setMenu("mens")}}><Link to='/mens' style={{ textDecoration: 'none'}} >Men </Link>{menu==="mens"?<hr/>:<></>}</li>
+                <li onClick={()=>{setMenu("women")}}><Link to='/women' style={{ textDecoration: 'none'}}>Women </Link>{menu==="women"?<hr/>:<></>}</li>
+                <li onClick={()=>{setMenu("kids")}}><Link to='/kids' style={{ textDecoration: 'none'}}>Kids </Link> {menu==="kids"?<hr/>:<></>}</li>
             </ul>
             <div className="nav-login-cart">        
                 <Link to='/login'><button>Login</button></Link>
