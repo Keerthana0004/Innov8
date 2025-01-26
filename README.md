@@ -64,33 +64,21 @@ shows a login page for the website
 /images/workflow
 *Add caption explaining your workflow*
 # Screenrecording
-/images/stylenook.mp4
+
 
 # Build Photos
-![Team](Add photo of your team here)
+/images/teamphoto
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1N4tsUSTOwHy3wohy2-ufxTu90OgEjjg_/view?usp=sharing
+The video is a screen recording of the working of our website.
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Keerthana S: Frontend of HomePage
+- Rameesa K T: Frontend of Categories
+- Diya K Sajith: Frontend of Login page
 
 ---
 Made with ❤️ at TinkerHub
