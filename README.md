@@ -22,7 +22,7 @@ In the current online fashion retail landscape, customers often face challenges 
 This project aims to address these points by developing a user-friendly e-commerce platform for dress shopping
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Stylenook offers a feature-rich and user-centric eCommerce platform tailored to enhance the dress shopping experience. The platform provides customization options, allowing users to input personal details such as height and weight to achieve a perfect fit. A visual search feature enables users to find desired dresses quickly by uploading images or using keywords, simplifying the search process. Exclusive offers and personalized recommendations are prominently displayed on the landing page, creating a unique and engaging experience for every user. By focusing on seamless navigation, detailed product information, and tailored shopping journeys, Stylenook ensures convenience, satisfaction, and an enjoyable online shopping experience.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -38,28 +38,29 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software: 
 # Installation
-[commands]
+
 
 # Run
-[commands]
+if node.js and npm already installed
+[npm run start]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+/images/homepage
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+/images/categorymen
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+/images/login
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+/images/workflow
 *Add caption explaining your workflow*
 
 For Hardware:
