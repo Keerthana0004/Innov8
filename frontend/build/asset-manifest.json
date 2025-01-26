@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Innov8/static/css/main.ad0a43fb.css",
+    "main.js": "/Innov8/static/js/main.41064dba.js",
+    "static/js/488.e75445ad.chunk.js": "/Innov8/static/js/488.e75445ad.chunk.js",
+    "static/media/women top1.jpg": "/Innov8/static/media/women top1.b26b6b999a9d413e6852.jpg",
+    "static/media/hero.png": "/Innov8/static/media/hero.1fbba24bead922811a97.png",
+    "static/media/men shirt1.jpg": "/Innov8/static/media/men shirt1.a91ed8b6158617ef170e.jpg",
+    "static/media/whatsapp_icon.png": "/Innov8/static/media/whatsapp_icon.f58d2ba327c1fbc1678c.png",
+    "static/media/instagram_icon.png": "/Innov8/static/media/instagram_icon.f99da45446f8b5ea7e73.png",
+    "static/media/pintester_icon.png": "/Innov8/static/media/pintester_icon.88b984ed15c1f1f16900.png",
+    "static/media/cart.png": "/Innov8/static/media/cart.438d388551b2f75ff7fd.png",
+    "static/media/logo.jpg": "/Innov8/static/media/logo.e850728e29dca99a11c9.jpg",
+    "static/media/kid kurti2.jpg": "/Innov8/static/media/kid kurti2.8c3c0cf5d8737af8e23a.jpg",
+    "static/media/men pant2.jpg": "/Innov8/static/media/men pant2.3da08af511d0504d3a2b.jpg",
+    "index.html": "/Innov8/index.html",
+    "main.ad0a43fb.css.map": "/Innov8/static/css/main.ad0a43fb.css.map",
+    "main.41064dba.js.map": "/Innov8/static/js/main.41064dba.js.map",
+    "488.e75445ad.chunk.js.map": "/Innov8/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad0a43fb.css",
+    "static/js/main.41064dba.js"
+  ]
+}
