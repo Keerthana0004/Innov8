@@ -6,7 +6,7 @@ const ShopContextProvider =(props) =>{
     const contextValue = {data_product};
     return (
         <ShopContext.Provider value={contextValue}>
-            {props.childrn}
+            {props.children}
         </ShopContext.Provider>
     )
 }
