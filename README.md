@@ -29,13 +29,10 @@ Stylenook offers a feature-rich and user-centric eCommerce platform tailored to 
 For Software:
 - VS Code
 - REACT
-- [Libraries used]
+- react router,vite
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software: 
