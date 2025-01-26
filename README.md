@@ -60,8 +60,6 @@ shows a login page for the website
 # Diagrams
 /images/workflow
 *Add caption explaining your workflow*
-# Screenrecording
-
 
 # Build Photos
 /images/teamphoto
