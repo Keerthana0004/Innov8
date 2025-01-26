@@ -9,9 +9,28 @@ import search from '../Assets/search.png';
 const Navbar = () => {
 
     const [menu,setMenu] = useState("shop");
-    const handleImageUpload =(file) =>{
-        console.log("Uploaded file:",file);
+    const handleImageUpload = (event) => {
+        const file = event.target.files[0];
+        if (file) {
+            const formData = new FormData();
+            formData.append('image', file);
+    
+            // Make POST request to the backend
+            fetch('http://localhost:5000/search-image', {
+                method: 'POST',
+                body: formData,
+            })
+                .then((response) => response.json())
+                .then((data) => {
+                    console.log('Success:', data);
+                })
+                .catch((error) => {
+                    console.error('Error:', error);
+                });
+        }
     };
+    
+      
     return (
         <div className='navbar'>
 
@@ -30,8 +49,8 @@ const Navbar = () => {
                 
                 <div className="file-upload">
                 <img src={search} alt="" style={{ width: '70px', height: 'auto'}}/>
-                <label htmlFor="file-upload">
-                        <button className="upload-btn">Search by Image</button>
+                <label htmlFor="file-upload" className="upload-btn">
+                        Search by Image
                     </label>
                     <input
                         type="file"

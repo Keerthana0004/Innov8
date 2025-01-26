@@ -1,0 +1,39 @@
+.signup {
+    /* ... any general styles for the Signup component */
+    width:100%;
+    height:80vh;
+    background: white;
+    padding-top: 100px;
+  }
+  
+  .signup-container {
+    /* ... styles for the container */
+    width: 580px;
+    
+    background:white;
+    margin:auto;
+    padding: 40px 60px;
+
+  }
+  .signup-container h1{
+    margin: 20px 0px;
+  }
+  .signup-fields {
+    /* ... styles for the input fields container */
+    display:flex;
+    flex-direction: column;
+    gap:29px;
+    margin-top: 30px;
+  }
+  
+  .signup-fields input {
+    /* ... styles for the input elements */
+    height: 72px;
+    width:100%;
+    font-size:18px;
+    display: block; /* Ensure inputs are visible */
+    margin-bottom: 10px; 
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }

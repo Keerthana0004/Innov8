@@ -17,13 +17,14 @@
     color: black;
     font-size: 26px;
     font-weight:600;
+    padding-left: 10px;
 }
 
 .hero-left p{
     color: black;
     font-size: 100px;
     font-weight: 700;
-
+    padding-left: 8px;
 }
 
 .hero-latest-button{
@@ -39,6 +40,7 @@
     color: white;
     font-size: 22px;
     font-weight:500;
+    padding: 10px 20px;
 }
 .hero-right
 {

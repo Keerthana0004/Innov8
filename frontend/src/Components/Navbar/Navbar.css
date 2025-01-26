@@ -66,7 +66,12 @@
     font-size: 20px;
     cursor: pointer;
     transition: background 0.3s ease;
-    border-color:#7a7a7a
+    border-color:#7a7a7a;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    
 }
 
 
@@ -76,11 +81,11 @@
     outline: none;
     border: 1px solid #7a7a7a;
     border-radius: 75px;
-    color: #515151;
+    color: #151515;
     font-size: 20px;
-    background: white;
+    background: #ffffff;
     cursor: pointer;
-    border-color:#7a7a7a
+    border-color:#7a7a7a;
 }
 .nav-login-cart button:active{
     background: #f3f3f3;
