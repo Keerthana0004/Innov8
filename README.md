@@ -51,27 +51,20 @@ For Software:
 
 # Screenshots (Add at least 3)
 /images/homepage
-*Add caption explaining what this shows*
+shows the homepage of our website 
 
 /images/categorymen
-*Add caption explaining what this shows*
+shows clothes of men's category
 
 /images/login
-*Add caption explaining what this shows*
+shows a login page for the website
+
 
 # Diagrams
 /images/workflow
 *Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic] ![WORK FLOW](https://github.com/user-attachments/assets/eb69f748-93b1-489b-b67a-764299640744)
-
-*Add caption explaining the schematic*
+# Screenrecording
+/images/stylenook.mp4
 
 # Build Photos
 ![Team](Add photo of your team here)
